@@ -2,7 +2,7 @@
 
 A poetic, cinematic fine-art cover inspired by the emotional atmosphere of "Nazanin Maryam" — expressed entirely through landscape, with no figures, faces, or literal narrative.
 
-![Nazanin Maryam cover](nazanin-maryam-cover.png)
+<img src="nazanin-maryam-cover.png" alt="Nazanin Maryam cover" width="300" height="300" />
 
 ## About
 
